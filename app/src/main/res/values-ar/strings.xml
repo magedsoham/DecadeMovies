@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_year">سنة</string>
+    <string name="str_rating">التقييم</string>
+    <string name="str_genres">نوع الفيلم</string>
+    <string name="str_cast">طاقم العمل</string>
+    <string name="str_movies">أفلام</string>
+    <string name="str_search">بحث</string>
+</resources>

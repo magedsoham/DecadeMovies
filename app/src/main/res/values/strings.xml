@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Old Movies</string>
+    <string name="str_year">Year</string>
+    <string name="str_rating">Rating</string>
+    <string name="str_genres">Genres</string>
+    <string name="str_cast">Cast</string>
+    <string name="str_search_pics" translatable="false">search pics</string>
+    <string name="str_movies">Movies</string>
+    <string name="str_search">Search</string>
+</resources>
